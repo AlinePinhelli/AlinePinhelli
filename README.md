@@ -1,8 +1,13 @@
-  ### Nice to meet you ! I'm Aline! ✨ 
 
+ <h1 align='center'>👋 Hi, nice to meet you ! I'm Aline! ✨ </h1>
+ 
+ 
+ <p align='center'>
+  
+  Nesse ano de 2023 resolvi mergulhar de cabeça nesse mundo de programação, algo que eu estava querendo começar há pelos menos 2 anos atrás, mas assim como muitos marinheiros de primeira viagem, não sabia por onde começar. Foi onde descobri o programa Desenvolve do Grupo Boticário, e estou seguindo a trilha de FullStack da escola Alura... A jornada está bem desafiadora, não poderia ser diferente, mas a cada novo desafio me sinto muito orgulhosa de cada conquista e percebendo cada vez mais que estou no caminho certo.
+  
 
-
-- 🌱 I’m currently learning :
+ 🌱 I’m currently learning :
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
