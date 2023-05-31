@@ -4,7 +4,7 @@
  
  <p align='center'>
   
-  Nesse ano de 2023 resolvi mergulhar de cabeça nesse mundo de programação, algo que eu estava querendo começar há pelos menos 2 anos, mas assim como muitos marinheiros de primeira viagem, não sabia por onde começar. Foi onde descobri o programa Desenvolve do Grupo Boticário, e estou seguindo a trilha de FullStack da escola Alura... A jornada está bem desafiadora, não poderia ser diferente, mas a cada novo desafio me sinto muito orgulhosa de cada conquista e percebendo cada vez mais que estou no caminho certo.
+  Nesse ano de 2023 resolvi mergulhar de cabeça nesse mundo de programação, algo que eu estava querendo ingressar há pelos menos 2 anos, mas assim como muitos marinheiros de primeira viagem, não sabia por onde começar. Foi onde descobri o programa Desenvolve do Grupo Boticário, e estou seguindo a trilha de FullStack da escola Alura... A jornada está bem desafiadora, não poderia ser diferente, mas a cada novo desafio me sinto muito orgulhosa de cada conquista e percebendo cada vez mais que estou no caminho certo.
   
 
  🌱 I’m currently learning :
