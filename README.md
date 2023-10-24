@@ -4,7 +4,9 @@
  
  <p align='center'>
   
-  Nesse ano de 2023 resolvi mergulhar de cabeça nesse mundo de programação, algo que eu estava querendo ingressar há pelos menos 2 anos, mas assim como muitos marinheiros de primeira viagem, não sabia por onde começar. Foi onde descobri o programa Desenvolve do Grupo Boticário. Com muita fé e dedicação, hoje faço parte da squad de Ofertas dentro do GB. A jornada está bem desafiadora, não poderia ser diferente, mas a cada novo desafio me sinto muito orgulhosa de cada conquista e percebendo cada vez mais que estou no caminho certo.
+  Sou a mãe do Kelvin e da Nati 🌱
+  Formada em Adminitração pela Universidade Positivo, mas no inicio de 2023 resolvi fazer transição de carreira e mergulhar de cabeça nesse mundo de programação. Estou cada vez mais apaixonada! 
+  🌱 Developer em constante evolução!
   
 
  🌱 I’m currently learning :
