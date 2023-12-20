@@ -6,7 +6,7 @@
   
   Sou a mãe do Kelvin e da Nati 🌱
   Formada em Adminitração pela Universidade Positivo, mas no inicio de 2023 resolvi fazer transição de carreira e mergulhar de cabeça nesse mundo de programação. Estou cada vez mais apaixonada! 
-  🌱 Web Developer em constante evolução!
+  🌱 Developer em constante evolução!
   
 
  🌱 I’m currently learning :
