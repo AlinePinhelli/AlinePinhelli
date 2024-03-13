@@ -5,7 +5,7 @@
  <p align='center'>
   
   Sou a mãe do Kelvin e da Nati 🌱
-  Formada em Adminitração pela Universidade Positivo, mas no inicio de 2023 resolvi fazer transição de carreira e mergulhar de cabeça nesse mundo de programação. Estou cada vez mais apaixonada! 
+  Formada em Administração pela Universidade Positivo, mas no inicio de 2023 resolvi fazer transição de carreira e mergulhar de cabeça nesse mundo de programação. Estou cada vez mais apaixonada! 
   🌱 Developer em constante evolução!
   
 
