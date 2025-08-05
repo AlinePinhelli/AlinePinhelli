@@ -2,19 +2,22 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0waHlpMDdlM3hnN3M2eG92bng0dDdqd2wycHRmamdqd3NzN2Z4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400" />
 </p>
 
-<h1 align="center">
-  Olá! Sou a Aline! ✨ <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-</h1>
+### Olá! Sou a Aline, 🚀
+
+Sou uma Dev que gosta de resolver problemas complexos com código limpo e eficiente. Tenho experiência com desenvolvimento front-end e automações, e adoro trabalhar com tecnologias como Node.js, javaScript e GraphQL.
+
+- 🔭 Atualmente estou trabalhando em automações e serviços para a melhoria de processos na minha equipe.
+- 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
+- 👯 Procuro colaborar em projetos de código aberto relacionados a automação e desenvolvimento de APIs.
+
+<br>
+
+
+### 📈 Minhas estatísticas no GitHub
 
 <p align="center">
-  👩‍💻 Sou a mãe do Kelvin e da Nati, e estou em uma jornada incrível no mundo da programação!
-  <br>
-  🎓 Formada em Administração, fiz a transição de carreira para a tecnologia no início de 2023 e estou cada vez mais apaixonada por este universo.
-  <br>
-  🌱 **Developer em constante evolução!**
+  <img src="https://github-readme-stats.vercel.app/api?username=AlinePinhelli&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
 </p>
-
----
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas que estou Aprendendo:</h2>
 <p align="left">
@@ -60,9 +63,3 @@
 </p>
 
 ---
-
-<h2 align="left">📈 Minhas Estatísticas do GitHub:</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlinePinhelli&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinePinhelli&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=00000000"/>
-</p>
