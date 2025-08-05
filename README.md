@@ -18,7 +18,9 @@
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas que estou Aprendendo:</h2>
 <p align="left">
-
+<a href="https://hoppscotch.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-plain.svg" alt="hoppscotch" width="40" height="40"/>
+  </a>
  </a>
   <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
